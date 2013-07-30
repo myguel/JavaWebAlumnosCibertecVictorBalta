@@ -1,0 +1,25 @@
+
+table.clasico {
+    border-collapse: collapse;
+    border: 1px solid #999;
+    margin: auto;
+    width: 500px;
+}
+
+table.clasico td, table.clasico th {
+    border: 1px solid #999;
+    padding: 4px 8px;
+}
+
+table.clasico thead td, table.clasico thead th {
+    font-weight: bold;
+    background-color: #eee;
+}
+
+table.clasico tbody tr:hover {
+    background-color: #eef;
+}
+
+table.clasico img {
+    border: none;
+}
