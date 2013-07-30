@@ -8,7 +8,8 @@ Aquí muestro el modelo de la base de datos
 ==========================================
 <img src="https://raw.github.com/juliopari/JavaWebAlumnosCibertecVictorBalta/master/data.png" />
 
-Tecnologias utilizadas.
+Tecnologias utilizadas
+======================
 - JSP
 - Servlets
 - JS
